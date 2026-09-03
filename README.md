@@ -2,6 +2,11 @@
 
 ### Extra‑Sensory Vision Implant · Holographic Tomography · TRN Stimulation
 
+```bash
+python main.py --all
+```
+(should generate images)
+
 ## Overview
 
 This repository contains the **theoretical foundation, mathematical models, and simulation software** for a next‑generation brain‑computer interface (BCI) – a fully implantable, bi‑directional neural prosthesis capable of **restoring or augmenting human vision** through direct cortical stimulation.
